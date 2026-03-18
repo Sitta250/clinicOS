@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx shadcn@latest add input card dialog table tabs dropdown-menu badge avatar skeleton textarea select separator sheet toast label -y)"
+      "Bash(npx shadcn@latest add input card dialog table tabs dropdown-menu badge avatar skeleton textarea select separator sheet toast label -y)",
+      "Bash(npx shadcn@latest add input card dialog table tabs dropdown-menu badge avatar skeleton textarea select separator sheet sonner label -y)"
     ]
   }
 }
